@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/sebvast/Parts%20Unlimited%20(DevOps%20AZ-400)/_apis/build/status/sebvast.calculator?branchName=master)](https://dev.azure.com/sebvast/Parts%20Unlimited%20(DevOps%20AZ-400)/_build/latest?definitionId=3&branchName=master)
+https://dev.azure.com/sebvast/Parts%20Unlimited%20(DevOps%20AZ-400)/_apis/build/status/sebvast.calculator?branchName=master
 
 [![Build Status](https://dev.azure.com/sebvast/Parts%20Unlimited%20(DevOps%20AZ-400)/_apis/build/status/sebvast.calculator?branchName=master)](https://dev.azure.com/sebvast/Parts%20Unlimited%20(DevOps%20AZ-400)/_build/latest?definitionId=3&branchName=master)
 
